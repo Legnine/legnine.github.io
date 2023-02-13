@@ -2,11 +2,11 @@
 ### I am Legnine and I am a Roblox game Dev.
 ### I just got bored and partially moved to Github
 
-### I have a GBA emulator: https://legnine.github.io/GBA-emulator
-### Credits go to Cattn for that one. (I wanted to know how cloning worked)
-### You have to import the ROMS directly.
-### You have to go to https://github.com/JWsley/Roms to download the ROMS
-### Thats it for now...
+###I'm not working on anything.
+###I'm not learning anything right now
+
+###How to reach me: Legnine#0071
+
 <!--
 **Legnine/legnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
