@@ -2,10 +2,10 @@
 ### I am Legnine and I am a Roblox game Dev.
 ### I just got bored and partially moved to Github
 
-### I'm not working on anything.
-### I'm not learning anything right now
+I'm not working on anything.
+I'm not learning anything right now
 
-### How to reach me: Legnine#0071
+How to reach me: Legnine#0071
 
 <!--
 **Legnine/legnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
