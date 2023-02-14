@@ -8,6 +8,8 @@ I'm not learning anything right now
 
 How to reach me: Legnine#0071
 
+My roblox user is @Legnine
+
 <!--
 **Legnine/legnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
