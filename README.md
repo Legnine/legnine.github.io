@@ -8,7 +8,7 @@
 - 🔭 I'm not working on anything.
 
 - 🌱 I'm currently trying to learn how to code in Roblox lua
-![Scripting in roblox lua...](/assets/images/gamedev.PNG "Animating roblox character.")
+![Scripting in roblox lua...](/assets/images/gamedev9000.PNG "Animating roblox character.")
 ###### Scripting in Roblox lua...
 
 - 📫 How to reach me on discord: Legnine#0071
