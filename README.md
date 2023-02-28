@@ -4,11 +4,11 @@
 
 ![Makeing an animation on roblox...](/assets/images/gamedev.PNG "Animating roblox character.")
 
-I'm not working on anything.
+- 🔭 I'm not working on anything.
 
-I'm not learning anything right now
+- 🌱 I'm currently trying to learn how to code in Roblox lua
 
-How to reach me: Legnine#0071
+- 📫 How to reach me on discord: Legnine#0071
 
 My roblox user is @Legnine
 
