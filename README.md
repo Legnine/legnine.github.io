@@ -2,7 +2,7 @@
 ### I am Legnine and I am a Roblox game Dev.
 ### I just got bored and partially moved to Github
 
-![Makeing an animation on roblox...](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Makeing an animation on roblox...](/assets/images/gamedev.PNG "Animating roblox character.")
 
 I'm not working on anything.
 
