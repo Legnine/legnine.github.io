@@ -10,7 +10,7 @@
 - 🌱 I'm currently trying to learn how to code in Roblox lua
 
 
-You can go to my wiki for the my Roblox game [here](https://robloxnpcwars.fandom.com/wiki/Npc_Wars_Wiki).
+You can go to my wiki for the my Roblox game  [here](https://robloxnpcwars.fandom.com/wiki/Npc_Wars_Wiki).
 
 
 ![Scripting in roblox lua...](/assets/images/gamedev9000.PNG "Animating roblox character.")
