@@ -18,9 +18,7 @@ You can go to my wiki for the my Roblox game  [here](https://robloxnpcwars.fando
 
 
 
-
-
-- 📫 How to reach me on discord: Legnine#0071
+[![Discord Presence](https://lanyard.cnrad.dev/api/791657121435484172)](https://discord.com/users/791657121435484172)
 
 My roblox user is @Legnine
 
