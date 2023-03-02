@@ -16,7 +16,7 @@ You can go to my wiki for the my Roblox game  [here](https://robloxnpcwars.fando
 ![Scripting in roblox lua...](/assets/images/gamedev9000.PNG "Animating roblox character.")
 ###### Scripting in Roblox lua...
 
-
+<link href="style.css" rel="stylesheet"></link>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/791657121435484172)](https://discord.com/users/791657121435484172)
