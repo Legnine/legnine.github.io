@@ -16,10 +16,6 @@ You can go to my wiki for the my Roblox game  [here](https://robloxnpcwars.fando
 ![Scripting in roblox lua...](/assets/images/gamedev9000.PNG "Animating roblox character.")
 ###### Scripting in Roblox lua...
 
-<html>
-   <style>
-   </style>
-</html>
 
 
 
