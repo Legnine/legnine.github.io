@@ -17,11 +17,14 @@ You can go to my wiki for the my Roblox game  [here](https://robloxnpcwars.fando
 ###### Scripting in Roblox lua...
 
 <html>
+   <style>
+   </style>
 </html>
 
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/791657121435484172)](https://discord.com/users/791657121435484172)
+###### Discord
 
 My roblox user is @Legnine
 
