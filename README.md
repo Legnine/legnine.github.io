@@ -1,4 +1,4 @@
-[Test Page](https://legnine/github/io/testrepo)
+[Test Page](https://legnine.github.io/testrepo)
 ### Hi there 👋
 ### I am Legnine and I am a Roblox game Dev.
 ### I just got bored and partially moved to Github
