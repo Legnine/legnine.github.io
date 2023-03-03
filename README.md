@@ -1,6 +1,9 @@
+[Test Page](https://legnine/github/io/testrepo)
 ### Hi there 👋
 ### I am Legnine and I am a Roblox game Dev.
 ### I just got bored and partially moved to Github
+#### This website is made for me to teach myself how to code.
+                                      
 
 ![Makeing an animation on roblox...](/assets/images/gamedev.PNG "Animating roblox character.")
 ###### Making and animation on roblox...
