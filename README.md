@@ -1,4 +1,4 @@
-[Test Page](https://legnine.github.io/testrepo)
+[Console Emulator](https://legnine.github.io/emulator)
 ### Hi there 👋
 ### I am Legnine and I am a Roblox game Dev.
 ### I just got bored and partially moved to Github
