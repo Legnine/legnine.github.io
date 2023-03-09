@@ -1,4 +1,4 @@
-[Console Emulator](https://legnine.github.io/emulator) [Discord Bot](https://legnine.github.io/susman/)
+[Console Emulator](https://legnine.github.io/emulator)|[Discord Bot](https://legnine.github.io/susman/)
 ### Hi there 👋
 ### I am Legnine and I am a Roblox game Dev.
 ### I just got bored and partially moved to Github
